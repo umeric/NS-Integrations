@@ -41,7 +41,7 @@ Start Date: {Date Deployment}, Start Time: 6:00 am, Repeat: Every 15 minutes,
 Status: Scheduled, Log Level: Audit, Execute As Role: Administrator, Priority: High
 
 5.	Go to Power BI Desktop or Power BI Online and go to your workspace.
-6.	
+   
 7.	Click the “New” button > select the Sematic Model > select CSV > 
  
 8.	Copy your .csv url file in your Netsuite File Cabinet and paste it in the File path or URL. 
