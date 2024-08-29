@@ -1,7 +1,7 @@
 Netsuite to Power BI
 1.	Create a blank .csv file in Netsuite File Cabinet. 
 Be sure to check the box “ Available without login”. This is NEEDED to access the file. 
-Note down the file ID (Ex. https://8587733-sb1.app.netsuite.com/core/media....)
+Note down the file ID (Ex. https://****-sb1.app.netsuite.com/core/media....)
  
 2.	Create a save search. 
 Note the save search ID (Ex. 4439)
